@@ -3,7 +3,7 @@
 $variable = 15;
 
 # 만약 $variable 이 10 이상일 때
-if($variable > 10) {
+if($variable >= 10) {
 	# $variable이 0 내용 실행
 	while($variable > 0) {
 		echo "Hello, World!\n";
