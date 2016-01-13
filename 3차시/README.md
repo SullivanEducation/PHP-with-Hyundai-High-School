@@ -66,6 +66,9 @@ foreach 는 인덱스 없이 배열(변수들을 여러개 모아놓은 것을 �
 1. ```$variable."\n";``` 를 출력한다.
 2. variable 변수를 1 더해준다.
 
+## 비교 연산자
+
+ 수업에서 초과, 미만, 이상, 이하에 대해서 교육을 했었다. 그러나 그 외에도 다양한 방법의 비교연산자를 지원하고 있다. 같은 것, 같지 않은 것, 변수의 타입 비교 등등의 연산자를 지원하고 있고, 그러한 비교연산자는 [php.net 비교연산자](http://php.net/manual/kr/language.operators.comparison.php)에서 쉽게 알 수 있다.
 
 ## + 추가1 PHP Windows 중 Non Thread Safe 와 Thread Safe 버전 차이점
 
