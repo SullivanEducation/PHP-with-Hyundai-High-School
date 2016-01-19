@@ -4,7 +4,7 @@
 
 ## 개요
 
-수업자료는 업로드 아직 되어져있지 않습니다.
+수업자료는 [SlideShare](http://www.slideshare.net/JeongUkJae/php-5-57209830) 에 업로드 되어져 있습니다.
 
 5차시에서는 db 에 관해 배웁니다.
 
