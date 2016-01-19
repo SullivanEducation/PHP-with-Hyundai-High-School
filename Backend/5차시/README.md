@@ -25,3 +25,13 @@
 ## DB 문법들
 
 ### SELECT - [mysql dev](http://dev.mysql.com/doc/refman/5.7/en/select.html)
+
+### INSERT - [mysql dev](http://dev.mysql.com/doc/refman/5.7/en/insert.html)
+
+### DELETE - [mysql dev](http://dev.mysql.com/doc/refman/5.7/en/delete.html)
+
+### UPDATE - [mysql dev](http://dev.mysql.com/doc/refman/5.7/en/update.html)
+
+
+* sql 문법을 공부하는 데에, 위에 링크되어있는 mysql 도큐먼트를 참고해도 되고, [w3schools](http://www.w3schools.com/sql/sql_syntax.asp)를 참고해도 된다.
+* 여러가지가 많으나, 실제로 개발을 해보면 몇가지만으로 대부분의 기능을 쓸 수 있고, 검색을 통해 그때 그때 문법을 맞추어가며 쓰기 때문에 전부 외우기보다 이런식으로 동작을 한다 정도로 이해하길 바란다.
