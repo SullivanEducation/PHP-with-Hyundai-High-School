@@ -1,0 +1,39 @@
+body {
+	background-color: #bdc3c7;
+	font-family: "나눔고딕";
+}
+
+article {
+	width: 360px;
+	height: 175px;
+
+	margin: 0 auto;
+
+	background-color: #ecf0f1;
+	text-align: center;
+}
+
+header {
+	width: 100%;
+	height: 100px;
+
+	text-align: center;
+}
+
+#background {
+	width: auto;
+	height: 100%;
+}
+
+article a {
+	font-size: 450%;
+	color: #34495e;
+}
+
+article #line {
+	width: 90%;
+
+	margin: 0 auto;
+
+	border-bottom: 1px solid #CCC;
+}
